@@ -1,0 +1,4 @@
+name = "Journals"
+uuid = "5d070b17-3c17-4000-9ee2-55bffeb900d1"
+authors = ["Neil Wilson <neil@aldur.co.uk>"]
+version = "0.1.0"
