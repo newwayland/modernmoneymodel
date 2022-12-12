@@ -1,0 +1,7 @@
+name = "modernmoneymodel"
+uuid = "4bad5f66-7f24-4a26-a994-cc4b4f084db8"
+authors = ["Neil Wilson <neil@aldur.co.uk>"]
+version = "0.1.0"
+
+[deps]
+Currencies = "0fd90b74-7c1f-579e-9252-02cd883047b9"
